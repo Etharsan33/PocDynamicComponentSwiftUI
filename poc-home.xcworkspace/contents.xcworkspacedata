@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "Libs">
+      <FileRef
+         location = "group:Tech Libs/SharedDomain">
+      </FileRef>
+      <FileRef
+         location = "group:Tech Libs/UIUtils">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Features">
+      <FileRef
+         location = "group:Features/Home">
+      </FileRef>
+   </Group>
+</Workspace>
